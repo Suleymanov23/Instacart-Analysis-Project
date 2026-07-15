@@ -14,7 +14,7 @@ This project provides a comprehensive end-to-end data analysis of Instacart’s 
 
 ## Interactive Dashboard
 You can view the full dashboard here:
-[**Click to view the Interactive Dashboard on Tableau Public**]([LİNKİ_BURA_YAPIŞDIR](https://public.tableau.com/app/profile/babak.suleymanov4455/viz/Book1_17841229383890/Dashboard3))
+[**Click to view the Interactive Dashboard on Tableau Public**]- https://public.tableau.com/app/profile/babak.suleymanov4455/viz/Book1_17841229383890/Dashboard3
 
 ## How to use
 - Python scripts are available in the repository for data processing.
